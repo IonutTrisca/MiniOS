@@ -1,6 +1,6 @@
 # MiniOS
 
-This program emulates the main functionalitites of an operating system such as Memory Defragmentation and Process Scheduling.
+This program emulates some of the main functionalitites of an operating system such as Memory Defragmentation and Process Scheduling.
 
 ## Program description in Romanian
 Programul are urmatoarele functionalitati principale:
